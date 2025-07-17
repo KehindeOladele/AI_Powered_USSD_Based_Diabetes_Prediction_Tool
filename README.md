@@ -25,5 +25,5 @@ The [prototype](https://github.com/KehindeOladele/AI_Powered_USSD_Based_Diabetes
 ## Results
 The predictions if its a 0 for no diabetes, the message on the screen should be: "You are at low risk of having diabetes, please contact your nearest hospital for confirmation". If its a 1 for yes diabetes, the message ont he screen should be: "You are at high risk of having diabetes, please visit the nearest hospital as soon as possible".
 
-#3 Acknowledgments
+## Acknowledgments
 The dataset for trainig the model was created by Priyam Choksi and was downloaded from Kaggle.
